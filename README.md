@@ -72,8 +72,5 @@ The following screenshots showcase the app's UI and key game states:
 - Add sound effects for moves and captures.
 - Support online multiplayer with a backend.
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request on GitHub.
-
 ## License
 This project is licensed under the MIT License.
